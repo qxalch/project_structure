@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Project defaultApplication="436158384" gstVersion="2320e" version="3.0">
+  <Settings/>
+  <LanguageList version="1.0"/>
+  <PlatformList version="1.0"/>
+  <Group label="apps_lower">
+    <Application dependencies="173315450||14109440" id="436158384" label="app_libs_upper">
+      <File filePath="app_libs_lower_main.4gl"/>
+    </Application>
+  </Group>
+  <Group label="libraries_lower">
+    <Library id="173315450" label="lib_down_01">
+      <File filePath="lib_down_01.4gl"/>
+    </Library>
+    <Library id="14109440" label="lib_down_02">
+      <File filePath="lib_down_02.4gl"/>
+    </Library>
+  </Group>
+</Project>

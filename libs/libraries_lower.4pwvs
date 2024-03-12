@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<WorkspaceViewState version="1.0">
+  <ExpandedNodes>
+    <Node path="/libraries_lower.4pw" type="pm/main-project"/>
+    <Node path="/libraries_lower.4pw/apps_lower" type="pm/group"/>
+    <Node path="/libraries_lower.4pw/apps_lower/app_libs_upper" type="pm/application"/>
+    <Node path="/libraries_lower.4pw/libraries_lower" type="pm/group"/>
+    <Node path="/libraries_lower.4pw/libraries_lower/lib_down_01" type="pm/library"/>
+    <Node path="/libraries_lower.4pw/libraries_lower/lib_down_02" type="pm/library"/>
+  </ExpandedNodes>
+  <OpenDocuments>
+    <Document filePath="lib_down_01.4gl" locator="" module="mod-ce3"/>
+    <Document filePath="lib_down_02.4gl" locator="" module="mod-ce3"/>
+    <Document filePath="app_libs_lower_main.4gl" locator="" module="mod-ce3"/>
+  </OpenDocuments>
+</WorkspaceViewState>

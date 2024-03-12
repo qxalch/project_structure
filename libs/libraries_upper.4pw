@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Project defaultApplication="514105478" gstVersion="2320e" version="3.0">
+  <Settings/>
+  <LanguageList version="1.0"/>
+  <PlatformList version="1.0"/>
+  <Group label="apps_upper">
+    <Application dependencies="292270323||782275||23535198_173315450" id="514105478" label="app_libs_upper">
+      <File filePath="app_libs_upper_main.4gl"/>
+    </Application>
+    <ExtProject filePath="libraries_lower.4pw" id="23535198"/>
+  </Group>
+  <Group label="libraries_upper">
+    <Library id="782275" label="lib_up_01">
+      <File filePath="lib_up_01.4gl"/>
+    </Library>
+    <Library dependencies="23535198_14109440" id="292270323" label="lib_up_02">
+      <File filePath="lib_up_02.4gl"/>
+    </Library>
+  </Group>
+</Project>

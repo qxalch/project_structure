@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Project defaultApplication="59362213" gstVersion="2320e" version="3.0">
+  <Settings/>
+  <LanguageList version="1.0">
+    <Language name="Genero">
+      <BuildRuleList/>
+      <LinkRuleList/>
+      <VariableList>
+        <Variable name="TargetDir" type="dir" value="$(ProjectDir)/output"/>
+      </VariableList>
+    </Language>
+  </LanguageList>
+  <PlatformList version="1.0"/>
+  <Group label="project_group">
+    <Group label="apps">
+      <Application dependencies="264199600_23535198_173315450||264199600_782275||264199600_292270323" id="59362213" label="application_001">
+        <VirtualFolder label="forms">
+          <File filePath="sources/app_form_001.4fd"/>
+        </VirtualFolder>
+        <File filePath="sources/app_main_001.4gl"/>
+      </Application>
+    </Group>
+    <Group label="externals">
+      <ExtProject filePath="libs/libraries_upper.4pw" id="264199600"/>
+    </Group>
+  </Group>
+</Project>
